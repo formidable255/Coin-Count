@@ -1,0 +1,57 @@
+body{
+    padding:20px;
+    line-height: 1.5;
+    font-size:1.5em;
+    background-image: url("../images/background.jpg");
+}
+.myButton{
+    background-color:lightgreen;
+    border-radius:5px;
+}
+.textarea{
+    width:200px;
+}
+a:hover {
+  color: red; 
+  text-decoration: none;
+}
+
+span.cent {
+  color: blue;
+  font-size: 30pt;
+}
+
+span.and {
+  font-size: 20pt;
+}
+
+span.dollar {
+  color: green;
+  font-size: 30pt;
+}
+.error{
+   color:red;
+}
+.head{
+    text-align:left;
+}
+.header{
+    
+    border-radius:10px;
+    padding:5px;
+}
+.hello{
+    text-align:right;
+}
+.right{
+    text-align:right;
+}
+.center{
+    text-align:center;
+}
+p#result{
+    font-weight:bold;
+    font-size:1.5em;
+}
+
+
