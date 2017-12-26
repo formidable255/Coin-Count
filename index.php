@@ -22,7 +22,6 @@
             2 Dollar Coins:<br /><br />
         </div>
 
-
         <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 ">
             <input type="text" name="name" size="30" required class="textarea"/><br /><br />
             <input type="text" name="pennies" size="6" class="textarea" /><br /><br />
