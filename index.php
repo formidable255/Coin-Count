@@ -34,13 +34,6 @@
     </div>
     <div class="row">
     	<div class="col-lg-5 col-md-5 col-sm-5 col-xs-5 right">
-            Your name: <span class="error">*</span><br /><br />
-            Pennies (1 &cent;):<br /><br />
-            Nickels (5 &cent;):<br /><br />
-            Dimes (10 &cent;):<br /><br />
-            Quarters (25 &cent;):<br /><br />
-            1 Dollar Coins:<br /><br />
-            2 Dollar Coins:<br /><br />
         </div>
         <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 ">
           <input type="submit" name="submit" value="Calculate Coins" class="myButton"/>
