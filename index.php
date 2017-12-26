@@ -34,7 +34,7 @@
     </div>
     <div class="row">
     	
-        <div class="offset-lg-5 offset-md-5 offset-sm-5 offset-xs-5  ">
+        <div class="offset-lg-5 col-lg-7 offset-md-5 col-md-7 offset-sm-5 col-sm-7 offset-xs-5 col-xs-7">
           <input type="submit" name="submit" value="Calculate Coins" class="myButton"/>
           <input type="reset" name="reset" value="Clear form" class="myButton" />
         </div>
